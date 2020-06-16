@@ -3,7 +3,7 @@
 
 github上关于微信公众号文章的爬虫还是蛮多的，一搜一大把。基于各种技术，这里分享的是之前的做的基于selenium实现的方法。  
 
-效果：
+效果：  
 ![screenshot](screenshot/record.gif)
  
  要爬取的公众号列表修改wx_account.py下的内容
